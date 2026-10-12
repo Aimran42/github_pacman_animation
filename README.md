@@ -36,7 +36,7 @@ Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
 
 ---
 
-## 🚀 How it works
+## ✨ How it works
 
 This project generates a Pac-Man style animation using your GitHub contribution graph.
 
