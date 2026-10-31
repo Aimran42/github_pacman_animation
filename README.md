@@ -6,6 +6,8 @@ Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
 
 <br>
 
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
